@@ -1,4 +1,5 @@
-def print_greeding ():
+def print_greeting ():
     print ("Привет, Мир!")
 
-print_greeding ()
+
+print_greeting ()
