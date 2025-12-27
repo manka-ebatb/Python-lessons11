@@ -3,3 +3,4 @@ def leap(a):
 def is_year_leap():
     a = int(input("Введите год "))
     print("Год", a, ":", leap(a))
+is_year_leap()
